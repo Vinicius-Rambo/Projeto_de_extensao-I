@@ -2,8 +2,9 @@
 
 **Componente** Curricular: Projeto de Extensão I  
 **Semestre**: 4º  
-**Carga** **horária**: 80h (67h relógio)  
-**Professor**: Marcia Palharini Pizzini
+**Carga**:  80h 
+**horária**:67h   
+**Professor**: Ana Carla Arruda de Holanda
 
 ---
 ## Objetivo
