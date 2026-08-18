@@ -15,7 +15,7 @@
 ### Membros
 - **Lider:** Tiago Henrique
 - Manoel Antonio
-- Amanda Hugner
+- Amanda Hubner
 - Tales Renan
 
 ## Organização do curso
