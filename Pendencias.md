@@ -1,7 +1,7 @@
 ## Pendências
 
 - Ana Carla: Ver sobre Egresso, canetas, imprimir resultado edital, roteiro
-  cerimonial, chave do refeitorio, impressão dos crachas.
+  cerimonial, chave do refeitorio, impressão dos crachas, reservar o auditorio.
 - Thiago's: Lembranças para o palestrante
 - Thiago Frederick: Kit do Crachá (verificar valores)
 - Matheus Cardoso: Site offline para inscrição no momento da palestra
