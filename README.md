@@ -1,13 +1,12 @@
-## Projeto de Extensão I
+# PROJETO DE EXTENSÃO I
 
-**Componente** Curricular: Projeto de Extensão I  
-**Semestre**: 4º  
-**Carga**:  80h 
-**horária**:67h   
-**Professor**: Ana Carla Arruda de Holanda
+* **CURSO:** TADS IFPR-FOZ
+* **PROFESSORA:** Ana Carla Arruda de Holanda
+* **SEMESTRE**: 4º  
+* **HORA AULA**: 80h 
+* **HORA RELOGIO**: 67h   
 
----
-## Objetivo
+### Objetivo
 
 Proporcionar a **formação extensionista** do estudante através da realização de cursos, oficinas e capacitações em tecnologias ou ferramentas de informática.
 
@@ -16,8 +15,7 @@ A disciplina busca desenvolver a capacidade de:
 - Desenvolver pequenas soluções de informática
 - Integrar os conhecimentos acadêmicos com as necessidades da comunidade externa
 
----
-## Ementa
+### Ementa
 
 - Introdução às atividades de extensão
 - Planejamento do curso/projeto no contexto extensionista
