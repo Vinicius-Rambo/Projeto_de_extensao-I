@@ -2,7 +2,7 @@
 
 Os grupos foram mantidos, mas agora agrupados em 2ª grandes equipes.
 
-## Equipe Material
+## Equipe do Material
 
 Responsável por desenvolver todo o material que será utilizado como suporte durante as duas aulas.
 
@@ -20,8 +20,7 @@ Responsável por desenvolver todo o material que será utilizado como suporte du
 
 ---
 
-## Equipe do Curso
-
+## Equipe das Aulas
 Responsável pelo planejamento pedagógico e execução das duas aulas, utilizando os materiais produzidos pela equipe de material.
 
 * **Lideres:** 
