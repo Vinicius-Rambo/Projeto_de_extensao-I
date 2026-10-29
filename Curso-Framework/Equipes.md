@@ -25,13 +25,14 @@ Responsável pelo planejamento pedagógico e execução das duas aulas, utilizan
 
 * **Lideres:** 
     - Gabriel dos Santos Cardozo
-    - Matheus de Souza Cardoso
+
 
 * **Membros:**
     - Alysson Gabriel Neres Soares 
     - Felipe Scalcon Rocha
     - Gustavo Lemes
     - Luis Felipe Camilo Sversutti
+    - Matheus de Souza Cardoso
     - Nathan Ramos de Lima
     - Vinicius Rambo Padilha
     - Victor Gabriel Cagol Escobar
