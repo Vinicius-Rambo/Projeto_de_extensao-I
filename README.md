@@ -1,4 +1,4 @@
-# Projeto de Extensão I: 
+# Projeto de Extensão I
 
 * **CURSO:** TADS IFPR-Foz
 * **SEMESTRE**: 4º  
